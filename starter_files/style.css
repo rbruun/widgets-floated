@@ -37,11 +37,11 @@ img{
 .wrapper{
     background-color: #F5FFEB;
     width: 1000px;
-    
     /** TODO 1: Center the site on the screen **/
     margin: auto;
     border-radius: 8px;
     overflow: hidden;
+    
 }
 
 /*************************/
